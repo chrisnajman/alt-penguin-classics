@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta name="color-scheme" content="dark light">
+  <meta charset="UTF-8">
+  <link rel="apple-touch-icon" sizes="180x180" href="/alt-penguin-classics/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/alt-penguin-classics/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/alt-penguin-classics/favicon-16x16.png">
+  <link rel="manifest" href="/alt-penguin-classics/site.webmanifest">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Alt-Penguin Classics</title>
+  <script>
+
+    (function (l) {
+      if (l.search[1] === "/") {
+        var decoded = l.search
+          .slice(1)
+          .split("&")
+          .map(function (s) {
+            return s.replace(/~and~/g, "&");
+          })
+          .join("?");
+        window.history.replaceState(null, null, l.pathname.slice(0, -1) + decoded + l.hash);
+      }
+    })(window.location);
+
+  </script>
+  <script type="module" crossorigin src="/alt-penguin-classics/assets/index-InI4svsi.js"></script>
+  <link rel="stylesheet" crossorigin href="/alt-penguin-classics/assets/index-_WUzS7RJ.css">
+</head>
+
+<body>
+  <div id="root"></div>
+</body>
+
+</html>
