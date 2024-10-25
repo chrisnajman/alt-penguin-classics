@@ -1,0 +1,535 @@
+*,
+::after,
+::before {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+:root {
+  color-scheme: light dark;
+  overflow-y: scroll;
+
+  --brand: #ff8402;
+
+  --bg: black;
+  --bg: rgb(71, 69, 69);
+  --fg: white;
+  --bg-main: rgb(71, 69, 69);
+  background-color: var(--bg);
+  color: var(--fg);
+  --shadow: 0.1875rem 0.1875rem 0.3125rem 0rem rgba(0, 0, 0, 1);
+  --btn-blue: aqua;
+  --nav-link: black;
+  --nav-link-active: white;
+}
+
+.lightmode {
+  --bg: white;
+  --fg: black;
+  --bg-main: transparent;
+  --nav-link-active: black;
+  --shadow: 0.1875rem 0.1875rem 0.3125rem 0rem rgba(0, 0, 0, 0.33);
+  --btn-blue: #405cf5;
+  background-color: var(--bg);
+  color: var(--fg);
+}
+
+body {
+  line-height: 1.5;
+  font-family: system-ui, sans-serif;
+  font-size: clamp(1rem, 0.8995rem + 0.4673vw, 1.25rem);
+  position: relative;
+}
+
+p {
+  text-wrap: pretty;
+  &:empty {
+    display: none;
+  }
+}
+
+:focus-visible {
+  outline: 0.125rem solid var(--fg);
+  outline-offset: 0.125rem;
+}
+abbr[title] {
+  text-decoration: none;
+  border-bottom: 0.0625rem dotted var(--fg);
+}
+
+input {
+  font-family: inherit;
+  font-size: inherit;
+}
+
+h1 {
+  text-align: center;
+  text-wrap: balance;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: normal;
+}
+
+h2 {
+  font-size: clamp(1.25rem, 1.1244rem + 0.5841vw, 1.5625rem);
+}
+.site-header--h1 {
+  flex-shrink: 0;
+  color: black;
+  text-decoration: none;
+  @media (hover: hover) {
+    &:hover {
+      opacity: 0.5;
+    }
+  }
+}
+h1,
+.site-header--h1 {
+  display: flex;
+  gap: 0.625rem;
+  line-height: 1;
+  align-items: center;
+  justify-content: center;
+  font-weight: normal;
+  font-size: clamp(1.25rem, 0.9486rem + 1.4019vw, 2rem);
+
+  & img {
+    max-width: 2.5rem;
+    min-width: 1.875rem;
+  }
+}
+
+button {
+  all: unset;
+  cursor: pointer;
+
+  @media (hover: hover) {
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.bold {
+  font-weight: 600;
+}
+
+.link-external {
+  color: var(--btn-blue);
+  text-decoration: none;
+  white-space: nowrap;
+
+  &:hover {
+    text-decoration: underline;
+  }
+
+  &::after {
+    content: " \27F6";
+  }
+}
+
+.theme-toggler {
+  position: absolute;
+  top: 0;
+  right: 0.625rem;
+  display: flex;
+  align-items: center;
+  gap: 0.625rem;
+  padding: 0.3125rem 0.625rem;
+
+  & button {
+    font-size: clamp(0.875rem, 0.8248rem + 0.2336vw, 1rem);
+    font-family: inherit;
+    background: var(--nav-link);
+    color: black;
+    width: 1.5625rem;
+    height: 0.8125rem;
+    border-radius: 1.25rem;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0.125rem;
+
+    & span {
+      height: 0.8125rem;
+      width: 0.8125rem;
+      background-color: white;
+      border-radius: 50%;
+    }
+  }
+
+  & p {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: black;
+
+    &.light {
+      opacity: 0.75;
+    }
+
+    &.dark {
+      opacity: 1;
+    }
+  }
+}
+
+.lightmode {
+  & .theme-toggler button {
+    justify-content: flex-start;
+  }
+
+  & p {
+    &.light {
+      opacity: 1;
+    }
+
+    &.dark {
+      opacity: 0.5;
+    }
+  }
+}
+
+.site-container {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  height: 100dvh;
+  height: 100vh;
+}
+
+.main-content {
+  background-color: var(--bg-main);
+  padding: 1.875rem 1.25rem;
+
+  &.main-cover {
+    display: grid;
+    place-items: center;
+  }
+
+  /** 
+    Hack to make .cover-list grid work correctly.
+    For an explanation, see: 
+    https://github.com/chrisnajman/code-snippets?tab=readme-ov-file#nested-grid-unusual-behaviour-fixed-by-min-width0
+  */
+  min-width: 0;
+}
+
+.site-header,
+.site-footer {
+  padding: 0 1.25rem;
+}
+
+.site-header,
+.site-footer {
+  text-align: center;
+
+  border-style: solid;
+  border-color: black;
+  background-color: var(--brand);
+  padding: 1.25rem;
+}
+
+.site-header {
+  border-width: 0 0 0.3125rem 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.site-footer {
+  border-width: 0.3125rem 0 0 0;
+}
+
+.site-footer {
+  & a {
+    color: black;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+
+    &::after {
+      content: " \27F6";
+    }
+  }
+}
+
+.site-navigation {
+  margin-inline-start: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  ul {
+    list-style-type: "";
+    display: flex;
+    gap: 1.25rem;
+    margin-inline: auto;
+    align-items: center;
+    justify-content: center;
+    padding-left: 0;
+  }
+
+  & li {
+    flex-shrink: 0;
+  }
+
+  & a {
+    padding-block-end: 0.3125rem;
+    text-decoration: none;
+    color: black;
+    border-width: 0 0 0.3125rem 0;
+    border-style: solid;
+    border-color: black;
+    &.active {
+      border-color: black;
+      border-style: double;
+      @media (hover: hover) {
+        &:hover {
+          border-style: double;
+        }
+      }
+    }
+
+    @media (hover: hover) {
+      &:hover {
+        border-style: double;
+      }
+    }
+  }
+}
+
+.container {
+  --_content-max-width: 45rem;
+  --_content-space-outside: 1.25rem;
+  width: min(var(--_content-max-width), 100% - var(--_content-space-outside) * 2);
+  margin: 0 auto;
+}
+
+.cover-list {
+  display: grid;
+  max-width: 79.4375rem;
+  max-width: 62.5rem;
+  margin: auto;
+
+  grid-template-columns: repeat(auto-fit, minmax(12.5rem, 1fr));
+  gap: 2.5rem;
+
+  & a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: var(--shadow);
+
+    @media (hover: hover) {
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+  }
+}
+
+/** Individual Cover */
+.cover {
+  max-width: 37.5rem;
+  margin-inline: auto;
+
+  & > div {
+    display: flex;
+    gap: clamp(0.625rem, 0.3738rem + 1.1682vw, 1.25rem);
+  }
+
+  & .prev-next {
+    align-self: center;
+  }
+}
+
+/** Image sources */
+.sources-list {
+  padding-inline-start: 0;
+  & li {
+    list-style-type: "";
+  }
+  & a {
+    text-decoration: none;
+    display: block;
+    text-wrap: pretty;
+    color: var(--btn-blue);
+    &:hover {
+      text-decoration: underline;
+    }
+    &::after {
+      content: " \27F6";
+    }
+  }
+}
+
+/** Error / Page not found */
+.error-pages {
+  display: flex;
+  flex-direction: column;
+  gap: 6.25rem;
+  padding-block-end: 3.125rem;
+  & a {
+    display: flex;
+    gap: 0.625rem;
+    align-items: center;
+    margin-inline: auto;
+    color: var(--fg);
+    text-decoration: none;
+
+    & svg {
+      min-width: 1.875rem;
+    }
+
+    @media (hover: hover) {
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+  }
+  & .page-not-found {
+    text-align: center;
+  }
+}
+
+/** Error */
+.error-info {
+  padding: 0;
+  margin-inline: auto;
+
+  &:empty {
+    display: none;
+  }
+}
+
+/** 
+  Loading 
+  Src: https://loading.io/css/
+*/
+.loading {
+  position: relative;
+  width: 5rem;
+  height: 5rem;
+  margin-inline: auto;
+}
+.loading div {
+  display: block;
+  position: absolute;
+  width: 4rem;
+  height: 4rem;
+  margin: 0.5rem;
+  border: 0.5rem solid currentColor;
+  border-radius: 50%;
+  animation: loading 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+  border-color: currentColor transparent transparent transparent;
+}
+.loading div:nth-child(1) {
+  animation-delay: -0.45s;
+}
+.loading div:nth-child(2) {
+  animation-delay: -0.3s;
+}
+.loading div:nth-child(3) {
+  animation-delay: -0.15s;
+}
+@keyframes loading {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/** Text flow */
+.flow > * + * {
+  margin-top: 1em;
+  /* em NOT rem & margin-top NOT margin bottom */
+}
+
+/** Arrows */
+.arrow {
+  &.disabled {
+    pointer-events: none;
+    opacity: 0.2;
+  }
+  & svg {
+    font-size: 3.125rem;
+    font-size: clamp(1.5625rem, 0.9346rem + 2.9206vw, 3.125rem);
+    fill: black;
+    background-color: white;
+    border: 0.1875rem solid white;
+    border-radius: 50%;
+  }
+}
+
+/** Skip link */
+.skip-link {
+  color: black;
+  background-color: var(--brand);
+  text-decoration: none;
+  font-weight: 600;
+  padding: 0.3125rem 0.625rem;
+  box-shadow: var(--shadow);
+
+  &::after {
+    content: " \2193";
+  }
+}
+.element-invisible {
+  clip: rect(0.0625rem, 0.0625rem, 0.0625rem, 0.0625rem);
+  height: 0.0625rem;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 200;
+  &.element-focusable:active,
+  &.element-focusable:focus {
+    clip: auto;
+    height: auto;
+    overflow: visible;
+  }
+}
+
+/* Screenreader only */
+.visually-hidden {
+  position: absolute;
+  width: 0.0625rem;
+  height: 0.0625rem;
+  padding: 0;
+  margin: -0.0625rem;
+  overflow: hidden;
+  clip-path: inset(0);
+  border: 0;
+}
+
+/* Remove all animations, transitions and smooth scroll for people that prefer not to see them */
+@media (prefers-reduced-motion: reduce) {
+  html,
+  html:focus-within {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+    transition-delay: 0ms !important;
+  }
+}
+
+/* Always comes last **/
+.hide {
+  display: none;
+}

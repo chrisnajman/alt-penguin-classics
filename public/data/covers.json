@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "title": "Berlin Alexanderplatz",
+    "author": "Alfred Döblin",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/berlin_alexanderplatz-main.jpg",
+    "imgMainDesc": "Expressionist painting of a madhouse",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/berlin_alexanderplatz-caption.gif",
+    "imgSrc": "https://en.wikipedia.org/wiki/The_Night_(Beckmann)#/media/File:Max_Beckmann,_1918-19,_The_Night_(Die_Nacht),_oil_on_canvas,_133_x_154_cm,_Kunstsammlung_Nordrhein-Westfalen,_D%C3%BCsseldorf.jpg",
+    "imgSrcCopy": "Detail of 'Die Nacht' (The Night) by Max Beckmann."
+  },
+  {
+    "id": "2",
+    "title": "Krapp's Last Tape",
+    "author": "Samuel Beckett",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/krapps_last_tape-main.jpg",
+    "imgMainDesc": "Tony Hancock in a dark coat and Homburg",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/krapps_last_tape-caption.gif",
+    "imgSrc": "https://www.expressandstar.com/entertainment/2017/10/07/lost-hancock-scripts-brought-back-to-life/",
+    "imgSrcCopy": "Detail of a portrait of Tony Hancock."
+  },
+  {
+    "id": "3",
+    "title": "Money",
+    "author": "Martin Amis",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/money-main.jpg",
+    "imgMainDesc": "Men milling about outside sex cinemas in Times Square, New York",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/money-caption.gif",
+    "imgSrc": "https://www.vitalcitynyc.org/articles/peter-moskos-oral-history-times-square",
+    "imgSrcCopy": "Detail of '42nd Street, New York City' by Andreas Feininger."
+  },
+    {
+    "id": "4",
+    "title": "Nausea",
+    "author": "Jean-Paul Sartre",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/nausea-main.jpg",
+    "imgMainDesc": "Tall trees seen from below",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/nausea-caption.gif",
+    "imgSrc": "https://johnjohnston.info/blog/tag/trees-from-below/",
+    "imgSrcCopy": "Detail of 'SilentSunday' by John Johnston."
+  },
+  {
+    "id": "5",
+    "title": "The Nature Of The Physical World",
+    "author": "Arthur Eddington",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_nature_of_the_physical_world-main.jpg",
+    "imgMainDesc": "Abstract image resembling a sunflower",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_nature_of_the_physical_world-caption.gif",
+    "imgSrc": "https://hammer.ucla.edu/exhibitions/2008/tomma-abts",
+    "imgSrcCopy": "Detail of 'Keke' by Tomma Abts."
+  },
+  {
+    "id": "6",
+    "title": "The Trial",
+    "author": "Franz Kafka",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_trial-main.jpg",
+    "imgMainDesc": "A main in uniform stands in the street",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_trial-caption.gif",
+    "imgSrc": "https://media.mutualart.com/Images/2017_05/26/14/140249672/e1c4792b-ab2e-4c37-9099-0e728b7c9f14_570.Jpeg",
+    "imgSrcCopy": "'Cityscape with Railway Worker' by Mario Sironi."
+  },
+  {
+    "id": "7",
+    "title": "Ulysses",
+    "author": "James Joyce",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/ulysses-main.jpg",
+    "imgMainDesc": "Hand-drawn map of Dublin, marked where incidents from Ulysses take place",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/ulysses-caption.gif",
+    "imgSrc": "https://nabokovsociety.org/sites/default/files/2018-01/NABOKV-L-0024513___body.html",
+    "imgSrcCopy": "Detail of Nabokov's hand-drawn map of Dublin, made for his Ulysses lectures."
+  },
+  {
+    "id": "8",
+    "title": "Memoirs Of My Nervous Illness",
+    "author": "Daniel Paul Schreber",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/memoirs_of_my_nervous_illness-main.jpg",
+    "imgMainDesc": "Military fortifications diagram from the 17th century",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/memoirs_of_my_nervous_illness-caption.gif",
+    "imgSrc": "https://uk.pinterest.com/pin/106960559881510798/",
+    "imgSrcCopy": "Detail from Reddit Post: Alsace, Vauban Fortification."
+  },
+  {
+    "id": "9",
+    "title": "Darkness At Noon",
+    "author": "Arthur Koestler",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/darkness_at_noon-main.jpg",
+    "imgMainDesc": "A main peers out from a port hole at another man",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/darkness_at_noon-caption.gif",
+    "imgSrc": "https://www.youtube.com/watch?v=HVDNZeo-5PA",
+    "imgSrcCopy": "Screen grab from 'The Iron Curtain' 1948."
+  },
+  {
+    "id": "10",
+    "title": "Cider With Rosie",
+    "author": "Laurie Lee",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/cider_with_rosie-main.jpg",
+    "imgMainDesc": "Spring landscape",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/cider_with_rosie-caption.gif",
+    "imgSrc": "https://www.wga.hu/html_m/m/millet/04spring.html",
+    "imgSrcCopy": "Detail of 'Printemps' (Spring) by Jean-François Millet."
+  },
+  {
+    "id": "11",
+    "title": "Nineteen Eighty Four",
+    "author": "George Orwell",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/nineteen_eighty_four-main.jpg",
+    "imgMainDesc": "The Post Office Tower, London",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/nineteen_eighty_four-caption.gif",
+    "imgSrc": "https://iamjamesward.wordpress.com/wp-content/uploads/2013/06/post-office-tower_0010.jpg",
+    "imgSrcCopy": "Detail of a photo of the Post Office Tower"
+  }
+]
