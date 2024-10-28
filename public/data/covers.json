@@ -107,7 +107,7 @@
     "imgMainDesc": "The Post Office Tower, London",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/nineteen_eighty_four-caption.gif",
     "imgSrc": "https://iamjamesward.wordpress.com/wp-content/uploads/2013/06/post-office-tower_0010.jpg",
-    "imgSrcCopy": "Detail of a photo of the Post Office Tower"
+    "imgSrcCopy": "Detail of a photo of the Post Office Tower."
   },
   {
     "id": "12",
@@ -117,6 +117,17 @@
     "imgMainDesc": "Heathcliff carries Cathy in his arms. Pen and ink drawing by Balthus",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/wuthering_heights-caption.gif",
     "imgSrc": "https://first-folio.cdn.bibliopolis.com/pictures/23734_4.jpg?v=1679785392",
-    "imgSrcCopy": "Detail of illustration by Balthus"
+    "imgSrcCopy": "Detail of illustration by Balthus."
+  }
+  ,
+  {
+    "id": "13",
+    "title": "Paradise Lost",
+    "author": "John Milton",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/paradise_lost-main.jpg",
+    "imgMainDesc": "Garden of Eden showing the Temptation and the Expulsion",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/paradise_lost-caption.gif",
+    "imgSrc": "https://wordsmith.org/words/images/garden_of_eden_large.jpg",
+    "imgSrcCopy": "Detail of 'Garden of Eden' by Lucas Cranach the Elder."
   }
 ]
