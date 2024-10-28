@@ -108,5 +108,15 @@
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/nineteen_eighty_four-caption.gif",
     "imgSrc": "https://iamjamesward.wordpress.com/wp-content/uploads/2013/06/post-office-tower_0010.jpg",
     "imgSrcCopy": "Detail of a photo of the Post Office Tower"
+  },
+  {
+    "id": "12",
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/wuthering_heights-main.jpg",
+    "imgMainDesc": "Heathcliff carries Cathy in his arms. Pen and ink drawing by Balthus",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/wuthering_heights-caption.gif",
+    "imgSrc": "https://first-folio.cdn.bibliopolis.com/pictures/23734_4.jpg?v=1679785392",
+    "imgSrcCopy": "Detail of illustration by Balthus"
   }
 ]
