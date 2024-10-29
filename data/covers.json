@@ -138,5 +138,15 @@
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_wasteland-caption.gif",
     "imgSrc": "https://media.gettyimages.com/id/3172147/photo/crowds-of-commuters-crossing-london-bridge-during-rush-hour.jpg?s=612x612&w=gi&k=20&c=0zXNLkapS792KAU4O7P77m0IO7W00mQ3AxU32y7UsBg=",
     "imgSrcCopy": "Detail (heavily retouched) of 'Crowds of commuters crossing London Bridge during rush hour'."
+  },
+  {
+    "id": "15",
+    "title": "Fragment of a Lover's Discourse",
+    "author": "Roland Barthes",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/fragments_of_a_lover's_discourse-main.jpg",
+    "imgMainDesc": "Detail of 'Portrait of Lydia Delectorskaya' by Henri Matisse",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/fragments_of_a_lover's_discourse-caption.gif",
+    "imgSrc": "https://www.arthistoryproject.com/site/assets/files/10494/henri-matisse-portrait-of-lydia-delectorskaya-1947-trivium-art-history.jpg",
+    "imgSrcCopy": "Detail of 'Portrait of Lydia Delectorskaya' by Henri Matisse."
   }
 ]
