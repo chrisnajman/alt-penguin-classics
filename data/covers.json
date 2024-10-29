@@ -118,8 +118,7 @@
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/wuthering_heights-caption.gif",
     "imgSrc": "https://first-folio.cdn.bibliopolis.com/pictures/23734_4.jpg?v=1679785392",
     "imgSrcCopy": "Detail of illustration by Balthus."
-  }
-  ,
+  },
   {
     "id": "13",
     "title": "Paradise Lost",
@@ -129,5 +128,15 @@
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/paradise_lost-caption.gif",
     "imgSrc": "https://wordsmith.org/words/images/garden_of_eden_large.jpg",
     "imgSrcCopy": "Detail of 'Garden of Eden' by Lucas Cranach the Elder."
+  },
+  {
+    "id": "14",
+    "title": "The Wasteland",
+    "author": "TS Eliot",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_wasteland-main.jpg",
+    "imgMainDesc": "Commuters crossing London Bridge",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_wasteland-caption.gif",
+    "imgSrc": "https://media.gettyimages.com/id/3172147/photo/crowds-of-commuters-crossing-london-bridge-during-rush-hour.jpg?s=612x612&w=gi&k=20&c=0zXNLkapS792KAU4O7P77m0IO7W00mQ3AxU32y7UsBg=",
+    "imgSrcCopy": "Detail (heavily retouched) of 'Crowds of commuters crossing London Bridge during rush hour'."
   }
 ]
