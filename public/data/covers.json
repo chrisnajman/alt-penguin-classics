@@ -167,6 +167,16 @@
     "imgMainDesc": "Psyche before the castle of Cupid",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_complete_poems-caption.gif",
     "imgSrc": "https://www.nationalgallery.org.uk/paintings/claude-the-enchanted-castle",
-    "imgSrcCopy": "Detail of 'The Enchanted Castle' by Claude Lorraine.."
+    "imgSrcCopy": "Detail of 'The Enchanted Castle' by Claude Lorraine."
+  },
+  {
+    "id": "18",
+    "title": "New Grub Street",
+    "author": "George Gissing",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/new_grub_street-main.jpg",
+    "imgMainDesc": "Man reading a newspaper while another man impatiently looks on",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/new_grub_street-caption.gif",
+    "imgSrc": "https://www.myartprints.co.uk/kunst/benjamin_robert_haydon/waiting_for_the_times.jpg",
+    "imgSrcCopy": "Detail of 'Waiting for the Times' by Benjamin Haydon."
   }
 ]
