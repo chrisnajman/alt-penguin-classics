@@ -158,5 +158,15 @@
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/trouble_at_willow_gables-caption.gif",
     "imgSrc": "https://www.nationalgalleries.org/sites/default/files/styles/feature-figure/public/exhibitions/artworks/Hiking%20(1936)%20by%20James%20Walker%20Tucker.jpg?itok=rdPNe0cz",
     "imgSrcCopy": "Detail of 'Hiking' by James Walker Tucker."
+  },
+  {
+    "id": "17",
+    "title": "The Complete Poems",
+    "author": "John Keats",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_complete_poems-main.jpg",
+    "imgMainDesc": "Psyche before the castle of Cupid",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_complete_poems-caption.gif",
+    "imgSrc": "https://www.nationalgallery.org.uk/paintings/claude-the-enchanted-castle",
+    "imgSrcCopy": "Detail of 'The Enchanted Castle' by Claude Lorraine.."
   }
 ]
