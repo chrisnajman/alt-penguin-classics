@@ -28,9 +28,8 @@ export default function Cover() {
               <Link
                 to={`/${prevCover.title.replace(/\s+/g, "-").toLowerCase()}`}
                 className="arrow"
-                title={prevCover.title}
               >
-                <FaCircleArrowLeft />
+                <FaCircleArrowLeft aria-hidden="true" />
 
                 <span className="visually-hidden">
                   Previous: {prevCover.title}
@@ -66,10 +65,9 @@ export default function Cover() {
               <Link
                 to={`/${nextCover.title.replace(/\s+/g, "-").toLowerCase()}`}
                 className="arrow"
-                title={nextCover.title}
               >
                 <span className="visually-hidden">Next: {nextCover.title}</span>
-                <FaCircleArrowRight />
+                <FaCircleArrowRight aria-hidden="true" />
               </Link>
             ) : (
               <Link

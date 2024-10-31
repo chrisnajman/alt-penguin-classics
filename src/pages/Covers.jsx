@@ -13,7 +13,6 @@ const Covers = () => {
         <Link
           to={cover.title.replace(/\s+/g, "-").toLowerCase()}
           key={cover.id}
-          title={`${cover.title} by ${cover.author}`}
           className="cover-tile"
         >
           <figure>
