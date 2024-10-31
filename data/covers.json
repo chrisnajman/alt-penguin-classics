@@ -148,5 +148,15 @@
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/fragments_of_a_lovers_discourse-caption.gif",
     "imgSrc": "https://www.arthistoryproject.com/site/assets/files/10494/henri-matisse-portrait-of-lydia-delectorskaya-1947-trivium-art-history.jpg",
     "imgSrcCopy": "Detail of 'Portrait of Lydia Delectorskaya' by Henri Matisse."
+  },
+  {
+    "id": "16",
+    "title": "Trouble At Willow Gables",
+    "author": "Brunette Coleman (aka Philip Larkin)",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/trouble_at_willow_gables-main.jpg",
+    "imgMainDesc": "Three female hikers pore over a map",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/trouble_at_willow_gables-caption.gif",
+    "imgSrc": "https://www.nationalgalleries.org/sites/default/files/styles/feature-figure/public/exhibitions/artworks/Hiking%20(1936)%20by%20James%20Walker%20Tucker.jpg?itok=rdPNe0cz",
+    "imgSrcCopy": "Detail of 'Hiking' by James Walker Tucker."
   }
 ]
