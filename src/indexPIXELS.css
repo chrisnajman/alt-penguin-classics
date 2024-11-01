@@ -207,7 +207,7 @@ img {
 
 .main-content {
   background-color: var(--bg-main);
-  padding: 30px 20px;
+  padding: 40px;
 
   &.main-cover {
     display: grid;
@@ -315,9 +315,6 @@ img {
 
 .cover-list {
   display: grid;
-  max-width: 1271px;
-  max-width: 1000px;
-  margin: auto;
 
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 40px;
