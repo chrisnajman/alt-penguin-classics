@@ -178,5 +178,15 @@
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/new_grub_street-caption.gif",
     "imgSrc": "https://www.myartprints.co.uk/kunst/benjamin_robert_haydon/waiting_for_the_times.jpg",
     "imgSrcCopy": "Detail of 'Waiting for the Times' by Benjamin Haydon."
+  },
+  {
+    "id": "19",
+    "title": "White Noise",
+    "author": "Don DeLillo",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/white_noise-main.jpg",
+    "imgMainDesc": "TV static",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/white_noise-caption.gif",
+    "imgSrc": "https://i.pinimg.com/originals/1a/48/41/1a48419031d22bf6b66b8817358a1d5e.png",
+    "imgSrcCopy": "Detail of 'TV Static'."
   }
 ]
