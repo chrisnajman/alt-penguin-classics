@@ -188,5 +188,15 @@
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/white_noise-caption.gif",
     "imgSrc": "https://i.pinimg.com/originals/1a/48/41/1a48419031d22bf6b66b8817358a1d5e.png",
     "imgSrcCopy": "Detail of 'TV Static'."
+  },
+  {
+    "id": "20",
+    "title": "Selected Writings",
+    "author": "Galileo",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/selected_writings-main.jpg",
+    "imgMainDesc": "Pope struck by a meteor",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/selected_writings-caption.gif",
+    "imgSrc": "https://i.ytimg.com/vi/gD9_9pQ_Fzo/maxresdefault.jpg",
+    "imgSrcCopy": "'La Nona Ora' (The Ninth Hour) by  Maurizio Cattelan."
   }
 ]
