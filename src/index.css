@@ -345,6 +345,14 @@ img {
 
   & .prev-next {
     align-self: center;
+
+    & a {
+      @media (hover: hover) {
+        &:hover {
+          opacity: 0.8;
+        }
+      }
+    }
   }
 }
 
