@@ -208,5 +208,15 @@
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_horse's_mouth-caption.gif",
     "imgSrc": "https://www.tate.org.uk/art/artworks/auerbach-primrose-hill-t01270",
     "imgSrcCopy": "Detail of `Primrose Hill` by Frank Auerbach."
+  },
+  {
+    "id": "22",
+    "title": "Goodbye To Berlin",
+    "author": "Christopher Isherwood",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/goodbye_to_berlin-main.jpg",
+    "imgMainDesc": "Decadent nightclub scene with jazz orchestra and dancers",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/goodbye_to_berlin-caption.gif",
+    "imgSrc": "https://www.artsy.net/artwork/otto-dix-grossstadt-metropolis",
+    "imgSrcCopy": "Detail of 'Großstadt' (Metropolis) by Otto Dix."
   }
 ]
