@@ -190,7 +190,7 @@
     "imgSrcCopy": "Detail of 'TV Static'."
   },
   {
-    "id": "21",
+    "id": "20",
     "title": "The Interpretation Of Dreams",
     "author": "Sigmund Freud",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_interpretation_of_dreams-main.jpg",
@@ -198,5 +198,15 @@
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_interpretation_of_dreams-caption.gif",
     "imgSrc": "https://arteforlife.com/wp-content/uploads/2018/04/lucio-fontana-concetto-spaziale-attesa.jpg",
     "imgSrcCopy": "Detail of 'Concetto Spaziale, Attesa' (Spatial Concept, Waiting) by Lucio Fontana."
+  },
+  {
+    "id": "21",
+    "title": "The Horse's Mouth",
+    "author": "Joyce Cary",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_horse's_mouth-main.jpg",
+    "imgMainDesc": "Expressionistic painting of Primrose Hill, London",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_horse's_mouth-caption.gif",
+    "imgSrc": "https://www.tate.org.uk/art/artworks/auerbach-primrose-hill-t01270",
+    "imgSrcCopy": "Detail of `Primrose Hill` by Frank Auerbach."
   }
 ]
