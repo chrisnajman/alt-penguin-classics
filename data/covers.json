@@ -218,5 +218,15 @@
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/goodbye_to_berlin-caption.gif",
     "imgSrc": "https://www.artsy.net/artwork/otto-dix-grossstadt-metropolis",
     "imgSrcCopy": "Detail of 'Großstadt' (Metropolis) by Otto Dix."
+  },
+  {
+    "id": "23",
+    "title": "London Orbital",
+    "author": "Iain Sinclair",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/london_orbital-main.jpg",
+    "imgMainDesc": "Satellite night view of the M25 (the London Orbital)",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/london_orbital-caption.gif",
+    "imgSrc": "https://www.colinstuart.net/wp-content/uploads/2015/02/london.png",
+    "imgSrcCopy": "Detail of night view of the M25 seen from the International Space Station."
   }
 ]
