@@ -228,5 +228,25 @@
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/london_orbital-caption.gif",
     "imgSrc": "https://www.colinstuart.net/wp-content/uploads/2015/02/london.png",
     "imgSrcCopy": "Detail of night view of the M25 seen from the International Space Station."
+  },
+  {
+    "id": "24",
+    "title": "Selected Writings",
+    "author": "Galileo",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/selected_writings-main.jpg",
+    "imgMainDesc": "Lifesize model of the Pope being struck by a meteor",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/selected_writings-caption.gif",
+    "imgSrc": "https://i.ytimg.com/vi/gD9_9pQ_Fzo/maxresdefault.jpg",
+    "imgSrcCopy": "La Nona Ora (The Ninth Hour) by Maurizio Cattelan."
+  },
+  {
+    "id": "25",
+    "title": "Situation Of The Surrealist Object",
+    "author": "André Breton",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/situation_of_the_surrealist_object-main.jpg",
+    "imgMainDesc": "Banana duct-taped to a wall",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/situation_of_the_surrealist_object-caption.gif",
+    "imgSrc": "https://content.ngv.vic.gov.au/col-images/api/EXHI069614/1280",
+    "imgSrcCopy": "Comedian by Maurizio Cattelan."
   }
 ]
