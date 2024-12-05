@@ -258,5 +258,15 @@
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_great_fortune-caption.gif",
     "imgSrc": "https://www.vintag.es/2014/01/bucharest-in-color-ca-1940s.html",
     "imgSrcCopy": "Detail from 'Bucharest in colour from the 1940s'."
+  },
+  {
+    "id": "27",
+    "title": "Mother London",
+    "author": "Michael Moorcock",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/mother_london-main.jpg",
+    "imgMainDesc": "Injured woman being carried on a stretcher by air raid wardens in war time London",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/mother_london-caption.gif",
+    "imgSrc": "https://www.icp.org/browse/archive/objects/casualty-of-a-v2-bomb-near-waterloo-station-london",
+    "imgSrcCopy": "Detail from 'Casualty of a V2 Bomb near Waterloo Station, London' by George Rodger."
   }
 ]
