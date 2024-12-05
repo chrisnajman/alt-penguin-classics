@@ -248,5 +248,15 @@
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/situation_of_the_surrealist_object-caption.gif",
     "imgSrc": "https://content.ngv.vic.gov.au/col-images/api/EXHI069614/1280",
     "imgSrcCopy": "Comedian by Maurizio Cattelan."
+  },
+  {
+    "id": "26",
+    "title": "The Great Fortune",
+    "author": "Olivia Manning",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_great_fortune-main.jpg",
+    "imgMainDesc": "Crowd in Bucharest in the 1940s",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_great_fortune-caption.gif",
+    "imgSrc": "https://www.vintag.es/2014/01/bucharest-in-color-ca-1940s.html",
+    "imgSrcCopy": "Detail from 'Bucharest in colour from the 1940s'."
   }
 ]
