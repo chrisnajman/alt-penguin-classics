@@ -268,5 +268,15 @@
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/mother_london-caption.gif",
     "imgSrc": "https://www.icp.org/browse/archive/objects/casualty-of-a-v2-bomb-near-waterloo-station-london",
     "imgSrcCopy": "Detail from 'Casualty of a V2 Bomb near Waterloo Station, London' by George Rodger."
+  },
+  {
+    "id": "28",
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/madame_bovary-main.jpg",
+    "imgMainDesc": "Woman reading in a meadow. In the background is a lake with a fisherman in a boat",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/madame_bovary-caption.gif",
+    "imgSrc": "https://www.metmuseum.org/art/collection/search/435991",
+    "imgSrcCopy": "Detail from 'A Woman Reading' by Camille Corot."
   }
 ]
