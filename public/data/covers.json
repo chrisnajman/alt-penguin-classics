@@ -288,5 +288,15 @@
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/jokes_and_their_relation_to_the_subconscious-caption.gif",
     "imgSrc": "https://www.metmuseum.org/art/collection/search/435991",
     "imgSrcCopy": "Detail from 'The Philospher's Conquest' by Georgio di Chirico."
+  },
+  {
+    "id": "30",
+    "title": "Salammbô",
+    "author": "Gustave Flaubert",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/salammbo-main.jpg",
+    "imgMainDesc": "Oriental orgy scene",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/salammbo-caption.gif",
+    "imgSrc": "https://www.meisterdrucke.jp/kunstwerke/1260px/Ferdinand_Victor_Eugene_Delacroix_-_The_Death_of_Sardanapalus_-_(MeisterDrucke-1001782).jpg",
+    "imgSrcCopy": "Detail from `The Death of Sardanapulus` by Eugene Delacroix."
   }
 ]
