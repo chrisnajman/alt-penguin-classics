@@ -278,5 +278,15 @@
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/madame_bovary-caption.gif",
     "imgSrc": "https://www.metmuseum.org/art/collection/search/435991",
     "imgSrcCopy": "Detail from 'A Woman Reading' by Camille Corot."
+  },
+  {
+    "id": "29",
+    "title": "Jokes And Their Relation To The Subconscious",
+    "author": "Sigmund Freud",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/jokes_and_their_relation_to_the_subconscious-main.jpg",
+    "imgMainDesc": "A cannon, two cannonballs and two artichokes on a pedestal in a deserted square",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/jokes_and_their_relation_to_the_subconscious-caption.gif",
+    "imgSrc": "https://www.metmuseum.org/art/collection/search/435991",
+    "imgSrcCopy": "Detail from 'The Philospher's Conquest' by Georgio di Chirico."
   }
 ]
