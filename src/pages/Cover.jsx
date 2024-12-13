@@ -4,6 +4,7 @@ import { FaCircleArrowLeft, FaCircleArrowRight } from "react-icons/fa6"
 import Loading from "../components/Loading"
 import PageTitle from "../components/PageTitle"
 import { sortCoversByTitle } from "../utils/sort-covers-by-title"
+import PenguinClassics from "../img/penguin-classics.gif"
 
 export default function Cover() {
   const dataPromise = useLoaderData()
@@ -46,15 +47,22 @@ export default function Cover() {
           </div>
           <div>
             <figure>
-              <img
-                src={cover.imgMain}
-                alt={cover.imgMainDesc}
-                width="100%"
-              />
+              <div>
+                <img
+                  src={cover.imgMain}
+                  alt={cover.imgMainDesc}
+                  width="100%"
+                />
+                <img
+                  src={PenguinClassics}
+                  alt="Penguin Classics"
+                  width="100%"
+                />
+              </div>
               <figcaption>
                 <img
                   src={cover.imgCaption}
-                  alt={`Penguin Classics. ${cover.title} by ${cover.author}`}
+                  alt={`${cover.title} by ${cover.author}`}
                   width="100%"
                 />
               </figcaption>

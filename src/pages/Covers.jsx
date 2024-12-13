@@ -2,6 +2,7 @@ import { useLoaderData, Link } from "react-router-dom"
 import { sortCoversByTitle } from "../utils/sort-covers-by-title"
 import Loading from "../components/Loading"
 import PageTitle from "../components/PageTitle"
+import PenguinClassics from "../img/penguin-classics.gif"
 
 const Covers = () => {
   const covers = useLoaderData()
@@ -16,15 +17,22 @@ const Covers = () => {
           className="cover-tile"
         >
           <figure>
-            <img
-              src={cover.imgMain}
-              alt={cover.imgMainDesc}
-              width="100%"
-            />
+            <div>
+              <img
+                src={cover.imgMain}
+                alt={cover.imgMainDesc}
+                width="100%"
+              />
+              <img
+                src={PenguinClassics}
+                alt="Penguin Classics"
+                width="100%"
+              />
+            </div>
             <figcaption>
               <img
                 src={cover.imgCaption}
-                alt={`Penguin Classics. ${cover.title} by ${cover.author}`}
+                alt={`${cover.title} by ${cover.author}`}
                 width="100%"
               />
             </figcaption>
