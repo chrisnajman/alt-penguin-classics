@@ -35,9 +35,9 @@ function About() {
           <h1>About</h1>
           <p>
             Who wouldn&apos;t love a job where finding evocative cover images
-            for classic texts is part of the work? Unfortunately, I have no such
-            job, but here are my unpaid efforts. I&apos;ll be adding more covers
-            as and when inspiration strikes.
+            for classic books was part of the work? Unfortunately, I have no
+            such job, but here are my unpaid efforts. I&apos;ll be adding more
+            covers as and when inspiration strikes.
           </p>
 
           <p>
