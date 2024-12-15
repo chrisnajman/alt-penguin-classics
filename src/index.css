@@ -26,7 +26,7 @@
 .lightmode {
   --bg: white;
   --fg: black;
-  --bg-main: transparent;
+  --bg-main: rgb(249, 246, 246);
   --nav-link-active: black;
   --shadow: 0.1875rem 0.1875rem 0.3125rem 0rem rgba(0, 0, 0, 0.33);
   --btn-blue: #405cf5;
