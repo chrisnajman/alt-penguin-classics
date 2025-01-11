@@ -298,5 +298,15 @@
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/salammbo-caption.gif",
     "imgSrc": "https://www.meisterdrucke.jp/kunstwerke/1260px/Ferdinand_Victor_Eugene_Delacroix_-_The_Death_of_Sardanapalus_-_(MeisterDrucke-1001782).jpg",
     "imgSrcCopy": "Detail from `The Death of Sardanapulus` by Eugene Delacroix."
+  },
+  {
+    "id": "31",
+    "title": "Society Of The Spectacle",
+    "author": "Guy Debord",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/society_of_the_spectacle-main.jpg",
+    "imgMainDesc": "Cubist cityscape",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/society_of_the_spectacle-caption.gif",
+    "imgSrc": "https://img.over-blog-kiwi.com/0/85/88/28/20140308/ob_5d959f_leger-ville-5.jpg",
+    "imgSrcCopy": "Detail from 'La Ville' by Fernand Leger."
   }
 ]
