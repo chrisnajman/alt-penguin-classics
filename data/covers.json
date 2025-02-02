@@ -308,5 +308,15 @@
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/society_of_the_spectacle-caption.gif",
     "imgSrc": "https://img.over-blog-kiwi.com/0/85/88/28/20140308/ob_5d959f_leger-ville-5.jpg",
     "imgSrcCopy": "Detail from 'La Ville' by Fernand Leger."
+  },
+  {
+    "id": "32",
+    "title": "Lonesome Dove",
+    "author": "Larry McMurtry",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/lonesome_dove-main.jpg",
+    "imgMainDesc": "Man walking across a bridge in Lonesome Dove at sunset",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/lonesome_dove-caption.gif",
+    "imgSrc": "https://youtu.be/SyTY72AzhKc?si=zGZzqsPx5nzYSFlw",
+    "imgSrcCopy": "Cropped screenshot from Lonesome Dove 1989 (Full Mini Series) (YouTube)."
   }
 ]
