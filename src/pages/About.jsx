@@ -1,17 +1,38 @@
+import { useState } from "react"
 import { useLoaderData } from "react-router-dom"
 import { sortCoversByTitle } from "../utils/sort-covers-by-title"
+import { sortCoversByAuthor } from "../utils/sort-covers-by-author"
 import Loading from "../components/Loading"
 import PageTitle from "../components/PageTitle"
 
 function About() {
   const covers = useLoaderData() // Expecting the array of covers directly
 
+  // Create a state variable to track the current sort option.
+  // "author" is default.
+  const [sortOption, setSortOption] = useState("author")
+
+  const sortTitleBtn = () => {
+    setSortOption("title")
+  }
+
+  const sortAuthorBtn = () => {
+    setSortOption("author")
+  }
+
   const renderCoverElements = (covers = []) => {
-    const sortedCovers = sortCoversByTitle(covers)
+    // Copy the covers array so we don't mutate the original
+    const coversCopy = [...covers]
+
+    const sortedCovers =
+      sortOption === "title"
+        ? sortCoversByTitle(coversCopy)
+        : sortCoversByAuthor(coversCopy)
+
     const coverElements = sortedCovers.map((cover) => {
       return (
         <li key={cover.id}>
-          <h3>{`${cover.title} by ${cover.author}`}</h3>
+          <h3>{`${cover.title} by ${cover.authorFirstName} ${cover.authorLastName}`}</h3>
           <a
             href={cover.imgSrc}
             target="_blank"
@@ -60,6 +81,23 @@ function About() {
             see the unedited originals.
           </p>
           <p>All links open in a new tab/window.</p>
+          <div className="filters">
+            <h3>Sort by: </h3>
+            <button
+              type="button"
+              onClick={sortAuthorBtn}
+              disabled={sortOption === "author"}
+            >
+              Author A-Z
+            </button>
+            <button
+              type="button"
+              onClick={sortTitleBtn}
+              disabled={sortOption === "title"}
+            >
+              Title A-Z
+            </button>
+          </div>
           {covers && covers.length > 0 ? (
             renderCoverElements(covers)
           ) : (

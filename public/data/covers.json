@@ -2,7 +2,8 @@
   {
     "id": "1",
     "title": "Berlin Alexanderplatz",
-    "author": "Alfred Döblin",
+    "authorFirstName": "Alfred",
+    "authorLastName": "Döblin",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/berlin_alexanderplatz-main.jpg",
     "imgMainDesc": "Expressionist painting of a madhouse",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/berlin_alexanderplatz-caption.gif",
@@ -12,7 +13,8 @@
   {
     "id": "2",
     "title": "Krapp's Last Tape",
-    "author": "Samuel Beckett",
+    "authorFirstName": "Samuel",
+    "authorLastName": "Beckett",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/krapps_last_tape-main.jpg",
     "imgMainDesc": "Tony Hancock in a dark coat and Homburg",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/krapps_last_tape-caption.gif",
@@ -22,7 +24,8 @@
   {
     "id": "3",
     "title": "Money",
-    "author": "Martin Amis",
+    "authorFirstName": "Martin",
+    "authorLastName": "Amis",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/money-main.jpg",
     "imgMainDesc": "Men milling about outside sex cinemas in Times Square, New York",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/money-caption.gif",
@@ -32,7 +35,8 @@
     {
     "id": "4",
     "title": "Nausea",
-    "author": "Jean-Paul Sartre",
+    "authorFirstName": "Jean-Paul",
+    "authorLastName": "Sartre",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/nausea-main.jpg",
     "imgMainDesc": "Tall trees seen from below",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/nausea-caption.gif",
@@ -42,7 +46,8 @@
   {
     "id": "5",
     "title": "The Nature Of The Physical World",
-    "author": "Arthur Eddington",
+    "authorFirstName": "Arthur",
+    "authorLastName": "Eddington",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_nature_of_the_physical_world-main.jpg",
     "imgMainDesc": "Abstract image resembling a sunflower",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_nature_of_the_physical_world-caption.gif",
@@ -52,7 +57,8 @@
   {
     "id": "6",
     "title": "The Trial",
-    "author": "Franz Kafka",
+    "authorFirstName": "Franz",
+    "authorLastName": "Kafka",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_trial-main.jpg",
     "imgMainDesc": "A main in uniform stands in the street",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_trial-caption.gif",
@@ -62,7 +68,8 @@
   {
     "id": "7",
     "title": "Ulysses",
-    "author": "James Joyce",
+    "authorFirstName": "James",
+    "authorLastName": "Joyce",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/ulysses-main.jpg",
     "imgMainDesc": "Hand-drawn map of Dublin, marked where incidents from Ulysses take place",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/ulysses-caption.gif",
@@ -72,7 +79,8 @@
   {
     "id": "8",
     "title": "Memoirs Of My Nervous Illness",
-    "author": "Daniel Paul Schreber",
+    "authorFirstName": "Daniel Paul",
+    "authorLastName": "Schreber",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/memoirs_of_my_nervous_illness-main.jpg",
     "imgMainDesc": "Military fortifications diagram from the 17th century",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/memoirs_of_my_nervous_illness-caption.gif",
@@ -82,7 +90,8 @@
   {
     "id": "9",
     "title": "Darkness At Noon",
-    "author": "Arthur Koestler",
+    "authorFirstName": "Arthur",
+    "authorLastName": "Koestler",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/darkness_at_noon-main.jpg",
     "imgMainDesc": "A main peers out from a port hole at another man",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/darkness_at_noon-caption.gif",
@@ -92,7 +101,8 @@
   {
     "id": "10",
     "title": "Cider With Rosie",
-    "author": "Laurie Lee",
+    "authorFirstName": "Laurie",
+    "authorLastName": "Lee",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/cider_with_rosie-main.jpg",
     "imgMainDesc": "Spring landscape",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/cider_with_rosie-caption.gif",
@@ -102,7 +112,8 @@
   {
     "id": "11",
     "title": "Nineteen Eighty Four",
-    "author": "George Orwell",
+    "authorFirstName": "George",
+    "authorLastName": "Orwell",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/nineteen_eighty_four-main.jpg",
     "imgMainDesc": "The Post Office Tower, London",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/nineteen_eighty_four-caption.gif",
@@ -112,7 +123,8 @@
   {
     "id": "12",
     "title": "Wuthering Heights",
-    "author": "Emily Brontë",
+    "authorFirstName": "Emily",
+    "authorLastName": "Brontë",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/wuthering_heights-main.jpg",
     "imgMainDesc": "Heathcliff carries Cathy in his arms. Pen and ink drawing by Balthus",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/wuthering_heights-caption.gif",
@@ -122,7 +134,8 @@
   {
     "id": "13",
     "title": "Paradise Lost",
-    "author": "John Milton",
+    "authorFirstName": "John",
+    "authorLastName": "Milton",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/paradise_lost-main.jpg",
     "imgMainDesc": "Garden of Eden showing the Temptation and the Expulsion",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/paradise_lost-caption.gif",
@@ -132,7 +145,8 @@
   {
     "id": "14",
     "title": "The Wasteland",
-    "author": "TS Eliot",
+    "authorFirstName": "TS",
+    "authorLastName": "Eliot",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_wasteland-main.jpg",
     "imgMainDesc": "Commuters crossing London Bridge",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_wasteland-caption.gif",
@@ -142,7 +156,8 @@
   {
     "id": "15",
     "title": "Fragments Of A Lover's Discourse",
-    "author": "Roland Barthes",
+    "authorFirstName": "Roland",
+    "authorLastName": "Barthes",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/fragments_of_a_lovers_discourse-main.jpg",
     "imgMainDesc": "Detail of 'Portrait of Lydia Delectorskaya' by Henri Matisse",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/fragments_of_a_lovers_discourse-caption.gif",
@@ -152,7 +167,8 @@
   {
     "id": "16",
     "title": "Trouble At Willow Gables",
-    "author": "Brunette Coleman (aka Philip Larkin)",
+    "authorFirstName": "Brunette",
+    "authorLastName": "Coleman (aka Philip Larkin)",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/trouble_at_willow_gables-main.jpg",
     "imgMainDesc": "Three female hikers pore over a map",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/trouble_at_willow_gables-caption.gif",
@@ -162,7 +178,8 @@
   {
     "id": "17",
     "title": "The Complete Poems",
-    "author": "John Keats",
+    "authorFirstName": "John",
+    "authorLastName": "Keats",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_complete_poems-main.jpg",
     "imgMainDesc": "Psyche before the castle of Cupid",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_complete_poems-caption.gif",
@@ -172,7 +189,8 @@
   {
     "id": "18",
     "title": "New Grub Street",
-    "author": "George Gissing",
+    "authorFirstName": "George",
+    "authorLastName": "Gissing",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/new_grub_street-main.jpg",
     "imgMainDesc": "Man reading a newspaper while another man impatiently looks on",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/new_grub_street-caption.gif",
@@ -182,7 +200,8 @@
   {
     "id": "19",
     "title": "White Noise",
-    "author": "Don DeLillo",
+    "authorFirstName": "Don",
+    "authorLastName": "DeLillo",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/white_noise-main.jpg",
     "imgMainDesc": "TV static",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/white_noise-caption.gif",
@@ -192,7 +211,8 @@
   {
     "id": "20",
     "title": "The Interpretation Of Dreams",
-    "author": "Sigmund Freud",
+    "authorFirstName": "Sigmund",
+    "authorLastName": "Freud (1)",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_interpretation_of_dreams-main.jpg",
     "imgMainDesc": "Cigar with caption: 'Ceci n'est pas un cigare' (This is not a pipe)",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_interpretation_of_dreams-caption.gif",
@@ -202,7 +222,8 @@
   {
     "id": "21",
     "title": "The Horse's Mouth",
-    "author": "Joyce Cary",
+    "authorFirstName": "Joyce",
+    "authorLastName": "Cary",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_horse's_mouth-main.jpg",
     "imgMainDesc": "Expressionistic painting of Primrose Hill, London",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_horse's_mouth-caption.gif",
@@ -212,7 +233,8 @@
   {
     "id": "22",
     "title": "Goodbye To Berlin",
-    "author": "Christopher Isherwood",
+    "authorFirstName": "Christopher",
+    "authorLastName": "Isherwood",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/goodbye_to_berlin-main.jpg",
     "imgMainDesc": "Decadent nightclub scene with jazz orchestra and dancers",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/goodbye_to_berlin-caption.gif",
@@ -222,7 +244,8 @@
   {
     "id": "23",
     "title": "London Orbital",
-    "author": "Iain Sinclair",
+    "authorFirstName": "Iain",
+    "authorLastName": "Sinclair",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/london_orbital-main.jpg",
     "imgMainDesc": "Satellite night view of the M25 (the London Orbital)",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/london_orbital-caption.gif",
@@ -232,7 +255,8 @@
   {
     "id": "24",
     "title": "Selected Writings",
-    "author": "Galileo",
+    "authorFirstName": "Galileo",
+    "authorLastName": "Galilei",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/selected_writings-main.jpg",
     "imgMainDesc": "Lifesize model of the Pope being struck by a meteor",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/selected_writings-caption.gif",
@@ -242,7 +266,8 @@
   {
     "id": "25",
     "title": "Situation Of The Surrealist Object",
-    "author": "André Breton",
+    "authorFirstName": "André",
+    "authorLastName": "Breton",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/situation_of_the_surrealist_object-main.jpg",
     "imgMainDesc": "Banana duct-taped to a wall",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/situation_of_the_surrealist_object-caption.gif",
@@ -252,7 +277,8 @@
   {
     "id": "26",
     "title": "The Great Fortune",
-    "author": "Olivia Manning",
+    "authorFirstName": "Olivia",
+    "authorLastName": "Manning",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_great_fortune-main.jpg",
     "imgMainDesc": "Crowd in Bucharest in the 1940s",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_great_fortune-caption.gif",
@@ -262,7 +288,8 @@
   {
     "id": "27",
     "title": "Mother London",
-    "author": "Michael Moorcock",
+    "authorFirstName": "Michael",
+    "authorLastName": "Moorcock",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/mother_london-main.jpg",
     "imgMainDesc": "Injured woman being carried on a stretcher by air raid wardens in war time London",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/mother_london-caption.gif",
@@ -272,7 +299,8 @@
   {
     "id": "28",
     "title": "Madame Bovary",
-    "author": "Gustave Flaubert",
+    "authorFirstName": "Gustave",
+    "authorLastName": "Flaubert (1)",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/madame_bovary-main.jpg",
     "imgMainDesc": "Woman reading in a meadow. In the background is a lake with a fisherman in a boat",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/madame_bovary-caption.gif",
@@ -282,7 +310,8 @@
   {
     "id": "29",
     "title": "Jokes And Their Relation To The Subconscious",
-    "author": "Sigmund Freud",
+    "authorFirstName": "Sigmund",
+    "authorLastName": "Freud (2)",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/jokes_and_their_relation_to_the_subconscious-main.jpg",
     "imgMainDesc": "A cannon, two cannonballs and two artichokes on a pedestal in a deserted square",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/jokes_and_their_relation_to_the_subconscious-caption.gif",
@@ -292,7 +321,8 @@
   {
     "id": "30",
     "title": "Salammbô",
-    "author": "Gustave Flaubert",
+    "authorFirstName": "Gustave",
+    "authorLastName": "Flaubert (2)",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/salammbo-main.jpg",
     "imgMainDesc": "Oriental orgy scene",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/salammbo-caption.gif",
@@ -302,7 +332,8 @@
   {
     "id": "31",
     "title": "Society Of The Spectacle",
-    "author": "Guy Debord",
+    "authorFirstName": "Guy",
+    "authorLastName": "Debord",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/society_of_the_spectacle-main.jpg",
     "imgMainDesc": "Cubist cityscape",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/society_of_the_spectacle-caption.gif",
@@ -312,7 +343,8 @@
   {
     "id": "32",
     "title": "Lonesome Dove",
-    "author": "Larry McMurtry",
+    "authorFirstName": "Larry",
+    "authorLastName": "McMurtry",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/lonesome_dove-main.jpg",
     "imgMainDesc": "Man walking across a bridge in Lonesome Dove at sunset",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/lonesome_dove-caption.gif",
@@ -322,7 +354,8 @@
   {
     "id": "33",
     "title": "Pages From The Goncourt Journals",
-    "author": "Les frères Goncourt (The brothers, Edmond and Jules de Goncourt)",
+    "authorFirstName": "Edmond and Jules de",
+    "authorLastName": "Goncourt",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/pages_from_the_goncourt_journals-main.jpg",
     "imgMainDesc": "Edmond and Jules de Goncourt",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/pages_from_the_goncourt_journals-caption.gif",

@@ -333,6 +333,40 @@ img {
   }
 }
 
+/** Sort Filters **/
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+  padding-block-end: 1rem;
+  & h2,
+  & h3 {
+    font-size: clamp(1rem, 0.8995rem + 0.4673vw, 1.25rem);
+    border-color: transparent;
+  }
+
+  & h2,
+  & h3,
+  & button {
+    padding-block-end: 5px;
+    border-width: 0 0 5px 0;
+    border-style: solid;
+  }
+
+  & button {
+    border-color: var(--btn-blue);
+    color: var(--btn-blue);
+    &:disabled {
+      cursor: not-allowed;
+      border-style: double;
+      border-color: var(--fg);
+      color: var(--fg);
+      opacity: 1;
+    }
+  }
+}
+
 /** Individual Cover */
 .cover {
   max-width: 600px;
