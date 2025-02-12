@@ -8,7 +8,8 @@
     "imgMainDesc": "Expressionist painting of a madhouse",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/berlin_alexanderplatz-caption.gif",
     "imgSrc": "https://en.wikipedia.org/wiki/The_Night_(Beckmann)#/media/File:Max_Beckmann,_1918-19,_The_Night_(Die_Nacht),_oil_on_canvas,_133_x_154_cm,_Kunstsammlung_Nordrhein-Westfalen,_D%C3%BCsseldorf.jpg",
-    "imgSrcCopy": "Detail of 'Die Nacht' (The Night) by Max Beckmann."
+    "imgSrcCopy": "Detail of 'Die Nacht' (The Night) by Max Beckmann.",
+    "slug": "Berlin Alexanderplatz By Alfred Döblin"
   },
   {
     "id": "2",
@@ -19,7 +20,8 @@
     "imgMainDesc": "Tony Hancock in a dark coat and Homburg",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/krapps_last_tape-caption.gif",
     "imgSrc": "https://www.expressandstar.com/entertainment/2017/10/07/lost-hancock-scripts-brought-back-to-life/",
-    "imgSrcCopy": "Detail of a portrait of Tony Hancock."
+    "imgSrcCopy": "Detail of a portrait of Tony Hancock.",
+    "slug": "Krapp's Last Tape By Samuel Beckett"
   },
   {
     "id": "3",
@@ -30,9 +32,10 @@
     "imgMainDesc": "Men milling about outside sex cinemas in Times Square, New York",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/money-caption.gif",
     "imgSrc": "https://www.vitalcitynyc.org/articles/peter-moskos-oral-history-times-square",
-    "imgSrcCopy": "Detail of '42nd Street, New York City' by Andreas Feininger."
+    "imgSrcCopy": "Detail of '42nd Street, New York City' by Andreas Feininger.",
+    "slug": "Money By Martin Amis"
   },
-    {
+  {
     "id": "4",
     "title": "Nausea",
     "authorFirstName": "Jean-Paul",
@@ -41,7 +44,8 @@
     "imgMainDesc": "Tall trees seen from below",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/nausea-caption.gif",
     "imgSrc": "https://johnjohnston.info/blog/tag/trees-from-below/",
-    "imgSrcCopy": "Detail of 'SilentSunday' by John Johnston."
+    "imgSrcCopy": "Detail of 'SilentSunday' by John Johnston.",
+    "slug": "Nausea By Jean Paul Sartre"
   },
   {
     "id": "5",
@@ -52,7 +56,8 @@
     "imgMainDesc": "Abstract image resembling a sunflower",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_nature_of_the_physical_world-caption.gif",
     "imgSrc": "https://hammer.ucla.edu/exhibitions/2008/tomma-abts",
-    "imgSrcCopy": "Detail of 'Keke' by Tomma Abts."
+    "imgSrcCopy": "Detail of 'Keke' by Tomma Abts.",
+    "slug": "The Nature Of The Physical World By Arthur Eddington"
   },
   {
     "id": "6",
@@ -63,7 +68,8 @@
     "imgMainDesc": "A main in uniform stands in the street",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_trial-caption.gif",
     "imgSrc": "https://media.mutualart.com/Images/2017_05/26/14/140249672/e1c4792b-ab2e-4c37-9099-0e728b7c9f14_570.Jpeg",
-    "imgSrcCopy": "'Cityscape with Railway Worker' by Mario Sironi."
+    "imgSrcCopy": "'Cityscape with Railway Worker' by Mario Sironi.",
+    "slug": "The Trial By Franz Kafka"
   },
   {
     "id": "7",
@@ -74,7 +80,8 @@
     "imgMainDesc": "Hand-drawn map of Dublin, marked where incidents from Ulysses take place",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/ulysses-caption.gif",
     "imgSrc": "https://nabokovsociety.org/sites/default/files/2018-01/NABOKV-L-0024513___body.html",
-    "imgSrcCopy": "Detail of Nabokov's hand-drawn map of Dublin, made for his Ulysses lectures."
+    "imgSrcCopy": "Detail of Nabokov's hand-drawn map of Dublin, made for his Ulysses lectures.",
+    "slug": "Ulysses By James Joyce"
   },
   {
     "id": "8",
@@ -85,7 +92,8 @@
     "imgMainDesc": "Military fortifications diagram from the 17th century",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/memoirs_of_my_nervous_illness-caption.gif",
     "imgSrc": "https://uk.pinterest.com/pin/106960559881510798/",
-    "imgSrcCopy": "Detail from Reddit Post: Alsace, Vauban Fortification."
+    "imgSrcCopy": "Detail from Reddit Post: Alsace, Vauban Fortification.",
+    "slug": "Memoirs Of My Nervous Illness By Daniel Paul Schreiber"
   },
   {
     "id": "9",
@@ -96,7 +104,8 @@
     "imgMainDesc": "A main peers out from a port hole at another man",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/darkness_at_noon-caption.gif",
     "imgSrc": "https://www.youtube.com/watch?v=HVDNZeo-5PA",
-    "imgSrcCopy": "Screen grab from 'The Iron Curtain' 1948."
+    "imgSrcCopy": "Screen grab from 'The Iron Curtain' 1948.",
+    "slug": "Darkness At Noon By Arthur Koestler"
   },
   {
     "id": "10",
@@ -107,7 +116,8 @@
     "imgMainDesc": "Spring landscape",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/cider_with_rosie-caption.gif",
     "imgSrc": "https://www.wga.hu/html_m/m/millet/04spring.html",
-    "imgSrcCopy": "Detail of 'Printemps' (Spring) by Jean-François Millet."
+    "imgSrcCopy": "Detail of 'Printemps' (Spring) by Jean-François Millet.",
+    "slug": "Cider With Rosie By Laurie Lee"
   },
   {
     "id": "11",
@@ -118,7 +128,8 @@
     "imgMainDesc": "The Post Office Tower, London",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/nineteen_eighty_four-caption.gif",
     "imgSrc": "https://iamjamesward.wordpress.com/wp-content/uploads/2013/06/post-office-tower_0010.jpg",
-    "imgSrcCopy": "Detail of a photo of the Post Office Tower."
+    "imgSrcCopy": "Detail of a photo of the Post Office Tower.",
+    "slug": "Nineteen Eighty Four By George Orwell"
   },
   {
     "id": "12",
@@ -129,7 +140,8 @@
     "imgMainDesc": "Heathcliff carries Cathy in his arms. Pen and ink drawing by Balthus",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/wuthering_heights-caption.gif",
     "imgSrc": "https://first-folio.cdn.bibliopolis.com/pictures/23734_4.jpg?v=1679785392",
-    "imgSrcCopy": "Detail of illustration by Balthus."
+    "imgSrcCopy": "Detail of illustration by Balthus.",
+    "slug": "Wuthering Heights By Emily Bront"
   },
   {
     "id": "13",
@@ -140,7 +152,8 @@
     "imgMainDesc": "Garden of Eden showing the Temptation and the Expulsion",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/paradise_lost-caption.gif",
     "imgSrc": "https://wordsmith.org/words/images/garden_of_eden_large.jpg",
-    "imgSrcCopy": "Detail of 'Garden of Eden' by Lucas Cranach the Elder."
+    "imgSrcCopy": "Detail of 'Garden of Eden' by Lucas Cranach the Elder.",
+    "slug": "Paradise Lost By John Milton"
   },
   {
     "id": "14",
@@ -151,7 +164,8 @@
     "imgMainDesc": "Commuters crossing London Bridge",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_wasteland-caption.gif",
     "imgSrc": "https://media.gettyimages.com/id/3172147/photo/crowds-of-commuters-crossing-london-bridge-during-rush-hour.jpg?s=612x612&w=gi&k=20&c=0zXNLkapS792KAU4O7P77m0IO7W00mQ3AxU32y7UsBg=",
-    "imgSrcCopy": "Detail (heavily retouched) of 'Crowds of commuters crossing London Bridge during rush hour'."
+    "imgSrcCopy": "Detail (heavily retouched) of 'Crowds of commuters crossing London Bridge during rush hour'.",
+    "slug": "The Wasteland By T S Eliot"
   },
   {
     "id": "15",
@@ -162,7 +176,8 @@
     "imgMainDesc": "Detail of 'Portrait of Lydia Delectorskaya' by Henri Matisse",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/fragments_of_a_lovers_discourse-caption.gif",
     "imgSrc": "https://www.arthistoryproject.com/site/assets/files/10494/henri-matisse-portrait-of-lydia-delectorskaya-1947-trivium-art-history.jpg",
-    "imgSrcCopy": "Detail of 'Portrait of Lydia Delectorskaya' by Henri Matisse."
+    "imgSrcCopy": "Detail of 'Portrait of Lydia Delectorskaya' by Henri Matisse.",
+    "slug": "Fragments Of A Lover's Discourse By Roland Barthes"
   },
   {
     "id": "16",
@@ -173,7 +188,8 @@
     "imgMainDesc": "Three female hikers pore over a map",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/trouble_at_willow_gables-caption.gif",
     "imgSrc": "https://www.nationalgalleries.org/sites/default/files/styles/feature-figure/public/exhibitions/artworks/Hiking%20(1936)%20by%20James%20Walker%20Tucker.jpg?itok=rdPNe0cz",
-    "imgSrcCopy": "Detail of 'Hiking' by James Walker Tucker."
+    "imgSrcCopy": "Detail of 'Hiking' by James Walker Tucker.",
+    "slug": "Trouble At Willow Gables By Brunette Coleman Aka Philip Larkin"
   },
   {
     "id": "17",
@@ -184,7 +200,8 @@
     "imgMainDesc": "Psyche before the castle of Cupid",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_complete_poems-caption.gif",
     "imgSrc": "https://www.nationalgallery.org.uk/paintings/claude-the-enchanted-castle",
-    "imgSrcCopy": "Detail of 'The Enchanted Castle' by Claude Lorraine."
+    "imgSrcCopy": "Detail of 'The Enchanted Castle' by Claude Lorraine.",
+    "slug": "The Complete Poems By John Keats"
   },
   {
     "id": "18",
@@ -195,7 +212,8 @@
     "imgMainDesc": "Man reading a newspaper while another man impatiently looks on",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/new_grub_street-caption.gif",
     "imgSrc": "https://www.myartprints.co.uk/kunst/benjamin_robert_haydon/waiting_for_the_times.jpg",
-    "imgSrcCopy": "Detail of 'Waiting for the Times' by Benjamin Haydon."
+    "imgSrcCopy": "Detail of 'Waiting for the Times' by Benjamin Haydon.",
+    "slug": "New Grub Street By George Gissing"
   },
   {
     "id": "19",
@@ -206,18 +224,20 @@
     "imgMainDesc": "TV static",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/white_noise-caption.gif",
     "imgSrc": "https://i.pinimg.com/originals/1a/48/41/1a48419031d22bf6b66b8817358a1d5e.png",
-    "imgSrcCopy": "Detail of 'TV Static'."
+    "imgSrcCopy": "Detail of 'TV Static'.",
+    "slug": "White Noise By Don Delillo"
   },
   {
     "id": "20",
     "title": "The Interpretation Of Dreams",
     "authorFirstName": "Sigmund",
-    "authorLastName": "Freud (1)",
+    "authorLastName": "Freud",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_interpretation_of_dreams-main.jpg",
     "imgMainDesc": "Cigar with caption: 'Ceci n'est pas un cigare' (This is not a pipe)",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_interpretation_of_dreams-caption.gif",
     "imgSrc": "https://www.pinclipart.com/picdir/big/77-774663_cigar-png-clip-art-image-transparent-png.png",
-    "imgSrcCopy": "Clip art with generated handrwiting."
+    "imgSrcCopy": "Clip art with generated handrwiting.",
+    "slug": "The Interpretation Of Dreams By Sigmund Freud"
   },
   {
     "id": "21",
@@ -228,7 +248,8 @@
     "imgMainDesc": "Expressionistic painting of Primrose Hill, London",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_horse's_mouth-caption.gif",
     "imgSrc": "https://www.tate.org.uk/art/artworks/auerbach-primrose-hill-t01270",
-    "imgSrcCopy": "Detail of `Primrose Hill` by Frank Auerbach."
+    "imgSrcCopy": "Detail of `Primrose Hill` by Frank Auerbach.",
+    "slug": "The Horse's Mouth By Joyce Cary"
   },
   {
     "id": "22",
@@ -239,7 +260,8 @@
     "imgMainDesc": "Decadent nightclub scene with jazz orchestra and dancers",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/goodbye_to_berlin-caption.gif",
     "imgSrc": "https://www.artsy.net/artwork/otto-dix-grossstadt-metropolis",
-    "imgSrcCopy": "Detail of 'Großstadt' (Metropolis) by Otto Dix."
+    "imgSrcCopy": "Detail of 'Großstadt' (Metropolis) by Otto Dix.",
+    "slug": "Goodbye To Berlin By Christopher Isherwood"
   },
   {
     "id": "23",
@@ -250,7 +272,8 @@
     "imgMainDesc": "Satellite night view of the M25 (the London Orbital)",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/london_orbital-caption.gif",
     "imgSrc": "https://www.colinstuart.net/wp-content/uploads/2015/02/london.png",
-    "imgSrcCopy": "Detail of night view of the M25 seen from the International Space Station."
+    "imgSrcCopy": "Detail of night view of the M25 seen from the International Space Station.",
+    "slug": "London Orbital By Iain Sinclair"
   },
   {
     "id": "24",
@@ -261,7 +284,8 @@
     "imgMainDesc": "Lifesize model of the Pope being struck by a meteor",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/selected_writings-caption.gif",
     "imgSrc": "https://i.ytimg.com/vi/gD9_9pQ_Fzo/maxresdefault.jpg",
-    "imgSrcCopy": "La Nona Ora (The Ninth Hour) by Maurizio Cattelan."
+    "imgSrcCopy": "La Nona Ora (The Ninth Hour) by Maurizio Cattelan.",
+    "slug": "Selected Writings By Galileo Galilei"
   },
   {
     "id": "25",
@@ -272,7 +296,8 @@
     "imgMainDesc": "Banana duct-taped to a wall",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/situation_of_the_surrealist_object-caption.gif",
     "imgSrc": "https://content.ngv.vic.gov.au/col-images/api/EXHI069614/1280",
-    "imgSrcCopy": "Comedian by Maurizio Cattelan."
+    "imgSrcCopy": "Comedian by Maurizio Cattelan.",
+    "slug": "Situation Of The Surrealist Object By André Breton"
   },
   {
     "id": "26",
@@ -283,7 +308,8 @@
     "imgMainDesc": "Crowd in Bucharest in the 1940s",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_great_fortune-caption.gif",
     "imgSrc": "https://www.vintag.es/2014/01/bucharest-in-color-ca-1940s.html",
-    "imgSrcCopy": "Detail from 'Bucharest in colour from the 1940s'."
+    "imgSrcCopy": "Detail from 'Bucharest in colour from the 1940s'.",
+    "slug": "The Great Fortune By Olivia Manning"
   },
   {
     "id": "27",
@@ -294,40 +320,44 @@
     "imgMainDesc": "Injured woman being carried on a stretcher by air raid wardens in war time London",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/mother_london-caption.gif",
     "imgSrc": "https://www.icp.org/browse/archive/objects/casualty-of-a-v2-bomb-near-waterloo-station-london",
-    "imgSrcCopy": "Detail from 'Casualty of a V2 Bomb near Waterloo Station, London' by George Rodger."
+    "imgSrcCopy": "Detail from 'Casualty of a V2 Bomb near Waterloo Station, London' by George Rodger.",
+    "slug": "Mother London By Michael Moorcock"
   },
   {
     "id": "28",
     "title": "Madame Bovary",
     "authorFirstName": "Gustave",
-    "authorLastName": "Flaubert (1)",
+    "authorLastName": "Flaubert",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/madame_bovary-main.jpg",
     "imgMainDesc": "Woman reading in a meadow. In the background is a lake with a fisherman in a boat",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/madame_bovary-caption.gif",
     "imgSrc": "https://www.metmuseum.org/art/collection/search/435991",
-    "imgSrcCopy": "Detail from 'A Woman Reading' by Camille Corot."
+    "imgSrcCopy": "Detail from 'A Woman Reading' by Camille Corot.",
+    "slug": "Madame Bovary By Gustave Flaubert"
   },
   {
     "id": "29",
     "title": "Jokes And Their Relation To The Subconscious",
     "authorFirstName": "Sigmund",
-    "authorLastName": "Freud (2)",
+    "authorLastName": "Freud",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/jokes_and_their_relation_to_the_subconscious-main.jpg",
     "imgMainDesc": "A cannon, two cannonballs and two artichokes on a pedestal in a deserted square",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/jokes_and_their_relation_to_the_subconscious-caption.gif",
     "imgSrc": "https://www.metmuseum.org/art/collection/search/435991",
-    "imgSrcCopy": "Detail from 'The Philospher's Conquest' by Georgio di Chirico."
+    "imgSrcCopy": "Detail from 'The Philospher's Conquest' by Georgio di Chirico.",
+    "slug": "Jokes And Their Relation To The Subconscious By Sigmund Freud"
   },
   {
     "id": "30",
     "title": "Salammbô",
     "authorFirstName": "Gustave",
-    "authorLastName": "Flaubert (2)",
+    "authorLastName": "Flaubert",
     "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/salammbo-main.jpg",
     "imgMainDesc": "Oriental orgy scene",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/salammbo-caption.gif",
     "imgSrc": "https://www.meisterdrucke.jp/kunstwerke/1260px/Ferdinand_Victor_Eugene_Delacroix_-_The_Death_of_Sardanapalus_-_(MeisterDrucke-1001782).jpg",
-    "imgSrcCopy": "Detail from `The Death of Sardanapulus` by Eugene Delacroix."
+    "imgSrcCopy": "Detail from `The Death of Sardanapulus` by Eugene Delacroix.",
+    "slug": "Salammbô By Gustave Flaubert"
   },
   {
     "id": "31",
@@ -338,7 +368,8 @@
     "imgMainDesc": "Cubist cityscape",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/society_of_the_spectacle-caption.gif",
     "imgSrc": "https://img.over-blog-kiwi.com/0/85/88/28/20140308/ob_5d959f_leger-ville-5.jpg",
-    "imgSrcCopy": "Detail from 'La Ville' by Fernand Leger."
+    "imgSrcCopy": "Detail from 'La Ville' by Fernand Leger.",
+    "slug": "Society Of The Spectacle By Guy Debord"
   },
   {
     "id": "32",
@@ -349,7 +380,8 @@
     "imgMainDesc": "Man walking across a bridge in Lonesome Dove at sunset",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/lonesome_dove-caption.gif",
     "imgSrc": "https://youtu.be/SyTY72AzhKc?si=zGZzqsPx5nzYSFlw",
-    "imgSrcCopy": "Cropped screenshot from Lonesome Dove 1989 (Full Mini Series) (YouTube)."
+    "imgSrcCopy": "Cropped screenshot from Lonesome Dove 1989 (Full Mini Series) (YouTube).",
+    "slug": "Lonesome Dove By Larry Mcmurtry"
   },
   {
     "id": "33",
@@ -360,6 +392,7 @@
     "imgMainDesc": "Edmond and Jules de Goncourt",
     "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/pages_from_the_goncourt_journals-caption.gif",
     "imgSrc": "https://www.britannica.com/biography/Edmond-and-Jules-Goncourt",
-    "imgSrcCopy": "Detail of 'Edmond and Jules Goncourt (in a box at the theatre)', lithograph by Paul Gavarni, 1853."
+    "imgSrcCopy": "Detail of 'Edmond and Jules Goncourt (in a box at the theatre)', lithograph by Paul Gavarni, 1853.",
+    "slug": "Pages From The Goncourt Journals By Edmond And Jules De Goncourt"
   }
 ]
