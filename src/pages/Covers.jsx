@@ -32,7 +32,7 @@ const Covers = () => {
 
     const coverElements = sortedCovers.map((cover) => (
       <Link
-        to={cover.title.replace(/\s+/g, "-").toLowerCase()}
+        to={cover.slug.replace(/\s+/g, "-").toLowerCase()}
         key={cover.id}
         className="cover-tile"
         state={{ sortOption }}

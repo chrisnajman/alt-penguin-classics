@@ -80,10 +80,8 @@ h2 {
   flex-shrink: 0;
   color: black;
   text-decoration: none;
-  @media (hover: hover) {
-    &:hover {
-      opacity: 0.5;
-    }
+  &:hover {
+    opacity: 0.8;
   }
 }
 h1,
@@ -106,10 +104,8 @@ button {
   all: unset;
   cursor: pointer;
 
-  @media (hover: hover) {
-    &:hover {
-      opacity: 0.8;
-    }
+  &:hover {
+    opacity: 0.8;
   }
 }
 
@@ -286,22 +282,15 @@ img {
     text-decoration: none;
     color: black;
     border-width: 0 0 0.3125rem 0;
-    border-style: solid;
+    border-style: double;
     border-color: black;
     &.active {
       border-color: black;
-      border-style: double;
-      @media (hover: hover) {
-        &:hover {
-          border-style: double;
-        }
-      }
+      border-style: solid;
     }
 
-    @media (hover: hover) {
-      &:hover {
-        border-style: double;
-      }
+    &:hover {
+      border-style: solid;
     }
   }
 }
@@ -325,10 +314,8 @@ img {
     justify-content: center;
     box-shadow: var(--shadow);
 
-    @media (hover: hover) {
-      &:hover {
-        opacity: 0.8;
-      }
+    &:hover {
+      opacity: 0.8;
     }
   }
 }
@@ -351,7 +338,7 @@ img {
   & button {
     padding-block-end: 0.3125rem;
     border-width: 0 0 0.3125rem 0;
-    border-style: solid;
+    border-style: double;
   }
 
   & button {
@@ -359,10 +346,14 @@ img {
     color: var(--btn-blue);
     &:disabled {
       cursor: not-allowed;
-      border-style: double;
+      border-style: solid;
       border-color: var(--fg);
       color: var(--fg);
       opacity: 1;
+    }
+
+    &:hover {
+      border-style: solid;
     }
   }
 }
@@ -381,10 +372,8 @@ img {
     align-self: center;
 
     & a {
-      @media (hover: hover) {
-        &:hover {
-          opacity: 0.8;
-        }
+      &:hover {
+        opacity: 0.8;
       }
     }
   }
@@ -431,10 +420,8 @@ img {
       min-width: 1.875rem;
     }
 
-    @media (hover: hover) {
-      &:hover {
-        opacity: 0.8;
-      }
+    &:hover {
+      opacity: 0.8;
     }
   }
   & .page-not-found {

@@ -30,7 +30,7 @@ export default function Cover() {
 
     return (
       <>
-        <PageTitle title={`${cover.title} | Alt-Penguin Classics`} />
+        <PageTitle title={`${cover.slug} | Alt-Penguin Classics`} />
         <h1 className="visually-hidden">
           {`${cover.title} by ${cover.authorFirstName} ${cover.authorLastName}`}
         </h1>
@@ -40,7 +40,7 @@ export default function Cover() {
             {prevCover ? (
               <Link
                 // Pass the sortOption along via state so the cover page knows how to sort
-                to={`/${prevCover.title.replace(/\s+/g, "-").toLowerCase()}`}
+                to={`/${prevCover.slug.replace(/\s+/g, "-").toLowerCase()}`}
                 state={{ sortOption }}
                 className="arrow"
               >
@@ -81,7 +81,7 @@ export default function Cover() {
           <div className="prev-next">
             {nextCover ? (
               <Link
-                to={`/${nextCover.title.replace(/\s+/g, "-").toLowerCase()}`}
+                to={`/${nextCover.slug.replace(/\s+/g, "-").toLowerCase()}`}
                 state={{ sortOption }}
                 className="arrow"
               >

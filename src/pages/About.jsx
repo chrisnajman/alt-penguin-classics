@@ -32,7 +32,7 @@ function About() {
     const coverElements = sortedCovers.map((cover) => {
       return (
         <li key={cover.id}>
-          <h3>{`${cover.title} by ${cover.authorFirstName} ${cover.authorLastName}`}</h3>
+          <h3>{cover.slug}</h3>
           <a
             href={cover.imgSrc}
             target="_blank"
@@ -108,10 +108,6 @@ function About() {
             This site is not affiliated with Penguin Books Limited. All
             trademarks<sup>*</sup>, copyrights and images are the property of
             their respective owners.
-          </p>
-          <p>
-            <sup>*</sup>Observant site visitors may notice that the Penguin logo
-            in the banner has been intentionally reversed.
           </p>
         </div>
       </main>

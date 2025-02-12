@@ -34,6 +34,7 @@ export async function getCoverDetail({ params }) {
     const covers = await response.json()
 
     const paramsName = params.cover
+
     const coverName = paramsName
       .replace(/-/g, " ")
       .replace(
@@ -41,7 +42,7 @@ export async function getCoverDetail({ params }) {
         (text) => text.charAt(0).toUpperCase() + text.substring(1).toLowerCase()
       )
 
-    const cover = covers.find((cover) => cover.title === coverName)
+    const cover = covers.find((cover) => cover.slug === coverName)
     if (!cover) {
       // Throw a 404-like error
       throw {
