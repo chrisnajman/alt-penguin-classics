@@ -373,18 +373,6 @@
   },
   {
     "id": "32",
-    "title": "Lonesome Dove",
-    "authorFirstName": "Larry",
-    "authorLastName": "McMurtry",
-    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/lonesome_dove-main.jpg",
-    "imgMainDesc": "Man walking across a bridge in Lonesome Dove at sunset",
-    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/lonesome_dove-caption.gif",
-    "imgSrc": "https://youtu.be/SyTY72AzhKc?si=zGZzqsPx5nzYSFlw",
-    "imgSrcCopy": "Cropped screenshot from Lonesome Dove 1989 (Full Mini Series) (YouTube).",
-    "slug": "Lonesome Dove By Larry Mcmurtry"
-  },
-  {
-    "id": "33",
     "title": "Pages From The Goncourt Journals",
     "authorFirstName": "Edmond and Jules de",
     "authorLastName": "Goncourt",
