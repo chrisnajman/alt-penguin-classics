@@ -1,6 +1,6 @@
 {
   "name": "alt-penguin-classics",
-   "homepage": "https://chrisnajman.github.io/alt-penguin-classics/",
+  "homepage": "https://chrisnajman.github.io/alt-penguin-classics/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -26,6 +26,6 @@
     "eslint-plugin-react-hooks": "^5.1.0-rc.0",
     "eslint-plugin-react-refresh": "^0.4.9",
     "globals": "^15.9.0",
-    "vite": "^5.4.14"
+    "vite": "^6.2.0"
   }
 }
