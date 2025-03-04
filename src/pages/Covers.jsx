@@ -5,7 +5,6 @@ import { sortCoversByAuthor } from "../utils/sort-covers-by-author"
 import Loading from "../components/Loading"
 import PageTitle from "../components/PageTitle"
 import PenguinClassics from "../img/penguin-classics.gif"
-import { LazyLoadImage } from "react-lazy-load-image-component"
 
 const Covers = () => {
   const covers = useLoaderData()
@@ -40,19 +39,19 @@ const Covers = () => {
       >
         <figure>
           <div>
-            <LazyLoadImage
+            <img
               src={cover.imgMain}
               alt={cover.imgMainDesc}
               width="100%"
             />
-            <LazyLoadImage
+            <img
               src={PenguinClassics}
               alt="Penguin Classics"
               width="100%"
             />
           </div>
           <figcaption>
-            <LazyLoadImage
+            <img
               src={cover.imgCaption}
               alt={`${cover.title} by ${cover.authorFirstName} ${cover.authorLastName}`}
               width="100%"
