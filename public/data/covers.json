@@ -382,5 +382,17 @@
     "imgSrc": "https://www.britannica.com/biography/Edmond-and-Jules-Goncourt",
     "imgSrcCopy": "Detail of 'Edmond and Jules Goncourt (in a box at the theatre)', lithograph by Paul Gavarni, 1853.",
     "slug": "Pages From The Goncourt Journals By Edmond And Jules De Goncourt"
+  },
+  {
+    "id": "33",
+    "title": "The Siege Of Krishnapur",
+    "authorFirstName": "JG",
+    "authorLastName": "Farrell",
+    "imgMain": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_siege_of_krishnapur-main.jpg",
+    "imgMainDesc": "Elephant and its attendants in the Indian section of the Great Exhibition of 1851 at Crystal Palace",
+    "imgCaption": "https://raw.githubusercontent.com/chrisnajman/penguin-covers-images/refs/heads/main/the_siege_of_krishnapur-caption.gif",
+    "imgSrc": "https://www.britannica.com/biography/Edmond-and-Jules-Goncourt",
+    "imgSrcCopy": "Detail of the Indian section of the Great Exhibition of 1851 at Crystal Palace.",
+    "slug": "The Siege Of Krishnapur By J G Farrell"
   }
 ]
